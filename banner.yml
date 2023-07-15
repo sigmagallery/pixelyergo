@@ -1,15 +1,15 @@
-title: 
-description: 
+title: Ergo Mummies
+description: Ergo Mummies is a pixel art collection of 125 unique Mummy characters with different traits, each unique Ergo Mummy is a playable character in Empire of Pixely Ergo game, made by Pixely Ergo NFTs.
 image: https://ipfs.io/ipfs/
 mintAddresses:
-  - 
+  - 9gtuMt4YTz5e1cskqyUAzVCXcQMHNtrF7RyfbnhHvNiQ1UoR697
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/PixelyErgo
     icon: fa-brands fa-twitter fa-fw
   - label: Discord
-    url: https://discord.com/invite/
+    url: https://discord.com/invite/GUpfrdXM5N
     icon: fa-brands fa-discord fa-fw
   - label: Website
-    url: 
+    url: https://www.pixelyergo.com/collections/
     icon: fa-solid fa-globe fa-fw
