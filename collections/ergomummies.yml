@@ -1,0 +1,1145 @@
+nfts:
+- tokenId: 28048a181868f66dc9898d00a9c747a38e56369f83307e4660010bfc530bd3b6
+  name: 'Ergo Mummy #1'
+  description: >-
+    {"721":{"1":{"Ergo Mummy":"1","traits":{"Primary color":"White","Secondary
+    color":"Golden circles","Eyes/Strips color":"Pink","Eyes shape":"Plus
+    sign","Accessory":"The Ankh","Background":"Green"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreierwdhtpe6g7whdphriyuuld7f7kqp7rfwlx3eg7izxry3lbgelia
+- tokenId: 554f1dd6714064ccd72c06c093af2d722f3a52c9e96b3f3ff4bd86af07ea1913
+  name: 'Ergo Mummy #2'
+  description: >-
+    {"721":{"2":{"Ergo Mummy":"2","traits":{"Primary color":"White","Secondary
+    color":"Green","Eyes/Strips color":"Blue","Eyes shape":"Plus
+    sign","Accessory":"None","Background":"Light blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiaxpxxfsfrirdycob7zypsl5u7wisgyeqwpgxpba4z6s3itczvapy
+- tokenId: e3b034194bd8ee18dbb684b71d52261190eee09d006e88605c9dc1cbd96a86af
+  name: 'Ergo Mummy #3'
+  description: >-
+    {"721":{"3":{"Ergo Mummy":"3","traits":{"Primary color":"Black","Secondary
+    color":"Cyan","Eyes/Strips color":"Violet","Eyes shape":"Plus
+    sign","Accessory":"Ancient crown","Background":"Orange"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiapyelfwskr34z3tc6njppdv3t6p6si3ab2n5c2er2s3v2yswzg4a
+- tokenId: eabb4f30004bfd8085d3f8a0a6d2d554d1c31f66666a56b8c9cb395cf36de716
+  name: 'Ergo Mummy #4'
+  description: >-
+    {"721":{"4":{"Ergo Mummy":"4","traits":{"Primary color":"White","Secondary
+    color":"Forest green","Eyes/Strips color":"Blue","Eyes
+    shape":"Happy","Accessory":"Crook","Background":"Red"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreicnxuawk3vrsnikqoiwby5gn5c55lhkf6wfqswkw7rsttgdk3r2sq
+- tokenId: 6e4d207303b465d8df17ec8e173b44d6ad7c8fece6eaced7f7707c2b203b3bc9
+  name: 'Ergo Mummy #5'
+  description: >-
+    {"721":{"5":{"Ergo Mummy":"5","traits":{"Primary color":"White","Secondary
+    color":"Highlighted red","Eyes/Strips color":"Orange","Eyes
+    shape":"Happy","Accessory":"Blue gem stick","Background":"Light blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihkupl3fklvpzhz47lts6uvjy7vkamcct45vbbgopemw336jckl5a
+- tokenId: e0be18f3fa8bc64a3ed4af5c60f97fc717c24e327b24148a5119a2c431f39be4
+  name: 'Ergo Mummy #6'
+  description: >-
+    {"721":{"6":{"Ergo Mummy":"6","traits":{"Primary color":"Beige","Secondary
+    color":"Purple","Eyes/Strips color":"Red","Eyes shape":"Plus
+    sign","Accessory":"None","Background":"Orange"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreif4rlcoyaosrsqw6ytxpe4wdcelvmybhncxylsj7gmazssowzycqm
+- tokenId: 3ce8e6be4a2a21838a066b6e205190e0d2b601c582e70c8c883113709fa38505
+  name: 'Ergo Mummy #7'
+  description: >-
+    {"721":{"7":{"Ergo Mummy":"7","traits":{"Primary color":"White","Secondary
+    color":"Ocean blue","Eyes/Strips color":"Brown","Eyes shape":"Plus
+    sign","Accessory":"Golden axe","Background":"Violet"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifkirpo6ctvkmmg3hpbxo5mpm2zunkfloywshl27fot5r7gv26rea
+- tokenId: c6198194dcd86dba700d4a178c4af74afff27f9915c945079cf559684059ab59
+  name: 'Ergo Mummy #8'
+  description: >-
+    {"721":{"8":{"Ergo Mummy":"8","traits":{"Primary color":"White","Secondary
+    color":"Green straight lines","Eyes/Strips color":"Blue","Eyes
+    shape":"Happy","Accessory":"The Ankh","Background":"Green"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifdypfcvkux5xohxomic4r5jd6xue2l2vxaed5h7zznjsqc5l4hg4
+- tokenId: 3be82f9e27907fa644867eb20af831d447882cfa0505d539cf698032349f7470
+  name: 'Ergo Mummy #9'
+  description: >-
+    {"721":{"9":{"Ergo Mummy":"9","traits":{"Primary color":"White","Secondary
+    color":"Emerald green","Eyes/Strips color":"Pink","Eyes
+    shape":"Happy","Accessory":"Crook","Background":"Golden"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidpugb3m2jjaidsdc2yssiqkxuam7est6c3wwjiq7she6cvnkd2x4
+- tokenId: 34aa6a724ffd5eaa02baef3bb46445acc9a35991b47764a01bc97f45cf21da92
+  name: 'Ergo Mummy #10'
+  description: >-
+    {"721":{"10":{"Ergo Mummy":"10","traits":{"Primary color":"Beige","Secondary
+    color":"Mossy green","Eyes/Strips color":"Red","Eyes
+    shape":"Happy","Accessory":"None","Background":"Red"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidbqhat6mjgeerlhjl4u2tfaxppap5miu3onjpmpykw7xruc3tdli
+- tokenId: 5cb69f4de880925da2ad7972bdaab5b6991c0bd62ca869734fe5e1c36558e0d7
+  name: 'Ergo Mummy #11'
+  description: >-
+    {"721":{"11":{"Ergo Mummy":"11","traits":{"Primary color":"White","Secondary
+    color":"Highlighted pink","Eyes/Strips color":"Lime","Eyes
+    shape":"Crosshair","Accessory":"The Ankh","Background":"Light blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreib4fcuzfkssnthhzt2xeul2yj52folppk6tyb7ykvou7ubcnrz6ry
+- tokenId: 7bc29af69bb9e07800cbdc8651d363dc5ac34e695f07d084e629e3173b3cea1d
+  name: 'Ergo Mummy #12'
+  description: >-
+    {"721":{"12":{"Ergo Mummy":"12","traits":{"Primary color":"Black","Secondary
+    color":"Beige","Eyes/Strips color":"Pink","Eyes
+    shape":"Happy","Accessory":"Ancient crown","Background":"Green"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiegsvd64pipn6yi27a6f7dfqwb5pjiesbqjgrttnrq747rrs6dany
+- tokenId: 748abd5de6192044e0599cbbe57e9919cc0944bc160cbc8c4f7d3e3ec1326aae
+  name: 'Ergo Mummy #13'
+  description: >-
+    {"721":{"13":{"Ergo Mummy":"13","traits":{"Primary color":"Black","Secondary
+    color":"Ocean blue","Eyes/Strips color":"Brown","Eyes shape":"Plus
+    sign","Accessory":"None","Background":"Blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreif56jhocswigui6ljqsfgz44wcj7fuu4sklwatcfpzmnxwxpre4vm
+- tokenId: 8957b393d938144320718a5fd0956acae58c0d01f40fd68304594a6f20baddb9
+  name: 'Ergo Mummy #14'
+  description: >-
+    {"721":{"14":{"Ergo Mummy":"14","traits":{"Primary color":"White","Secondary
+    color":"Emerald green","Eyes/Strips color":"Violet","Eyes
+    shape":"Crosshair","Accessory":"Golden spear","Background":"Red"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihiztfjpugs4lvthsvrxmehcfgmty5dovaohr2d7rhfpsuthl5tau
+- tokenId: d3f25b3f1dd4238703992950d5b55a34f9a00e51bdccfbc6f411ab7b7991d0ad
+  name: 'Ergo Mummy #15'
+  description: >-
+    {"721":{"15":{"Ergo Mummy":"15","traits":{"Primary color":"White","Secondary
+    color":"Forest green","Eyes/Strips color":"Red","Eyes
+    shape":"Happy","Accessory":"Golden axe","Background":"Light blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifmdo5nzm5vqt3cmhstqrlnmfobmvtuusdu2po7prwnf3u3qnhocm
+- tokenId: 4c7407593406bc36d9f07c56ef47913926779996da818580e584f3f39f651571
+  name: 'Ergo Mummy #16'
+  description: >-
+    {"721":{"16":{"Ergo Mummy":"16","traits":{"Primary color":"Gray","Secondary
+    color":"Forest green","Eyes/Strips color":"Orange","Eyes
+    shape":"Crosshair","Accessory":"Blue gem stick","Background":"Blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreig5gcb7nhgdvfcnckll6uipfw6lwc7fnbn62hzaq4mposm7jrsj7e
+- tokenId: d5fe357aa5886912944b40b3c446d41802bef0cdaf3efd65d5d4d57bff4b5266
+  name: 'Ergo Mummy #17'
+  description: >-
+    {"721":{"17":{"Ergo Mummy":"17","traits":{"Primary color":"White","Secondary
+    color":"Orange circles","Eyes/Strips color":"Violet","Eyes
+    shape":"Happy","Accessory":"None","Background":"Orange"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreigwpwpigyxewcc2td6hwz7delrvxfkltezzfx3ap6sshucuzx27pu
+- tokenId: aaace7d50fe9e85f371c634a3c4f8dedb4039c856174b6b03eb607f5d1ecd6f0
+  name: 'Ergo Mummy #18'
+  description: >-
+    {"721":{"18":{"Ergo Mummy":"18","traits":{"Primary color":"Red","Secondary
+    color":"Orange","Eyes/Strips color":"Lime","Eyes
+    shape":"Happy","Accessory":"Golden spear","Background":"Green"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiezvumt42ml7cjmudpyaghdttoj3xyukc3wrk3ny4vmah6yv46dqm
+- tokenId: 91f1c321db450b0d1c65a534cf6dca8595588d065dff8ea5e7aff95a5babc51c
+  name: 'Ergo Mummy #19'
+  description: >-
+    {"721":{"19":{"Ergo Mummy":"19","traits":{"Primary color":"Gray","Secondary
+    color":"Beige","Eyes/Strips color":"Red","Eyes
+    shape":"Crosshair","Accessory":"Ancient crown","Background":"Light blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiffwlr76nxha5zdmbgbm6iudsmbn5dz4j5pdstwxtjikqon6kbv74
+- tokenId: 402b34b01874da17a05177dd69a16d4c90d8376fde2bb86fb523f8d02d1fc314
+  name: 'Ergo Mummy #20'
+  description: >-
+    {"721":{"20":{"Ergo Mummy":"20","traits":{"Primary color":"Beige","Secondary
+    color":"Gray","Eyes/Strips color":"Blue","Eyes shape":"Plus
+    sign","Accessory":"Golden axe","Background":"Red"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreieifcnvff3rqf5mnkt73kohd7ergnqq3xn3bkz6svx4cpcrx2ys5e
+- tokenId: ab1a4c9da121a0ff6574013f77109bec0003eac6ca1317407b25a7e21b1d5acd
+  name: 'Ergo Mummy #21'
+  description: >-
+    {"721":{"21":{"Ergo Mummy":"21","traits":{"Primary color":"Red","Secondary
+    color":"Beige","Eyes/Strips color":"Orange","Eyes
+    shape":"Crosshair","Accessory":"Crook","Background":"Light blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihcar5cffqeinezfiiezpaavqv2cdayv3e5nmxhr27i33hx54r3qu
+- tokenId: 4faed7ebb918f4f5b69a69d6369344cd3329305e5e70677b392f439dbe0120e7
+  name: 'Ergo Mummy #22'
+  description: >-
+    {"721":{"22":{"Ergo Mummy":"22","traits":{"Primary color":"Beige","Secondary
+    color":"Mossy green","Eyes/Strips color":"Blue","Eyes shape":"Plus
+    sign","Accessory":"Ancient crown","Background":"Orange"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreih4ifgqaekfifp2zsboszedobh2zgsbgfycdoxwer4vbsvxxn56ee
+- tokenId: 1d62e61dbf27a8a4a2139811b6870da2414181c518ed27ed6b159e0235a9a455
+  name: 'Ergo Mummy #23'
+  description: >-
+    {"721":{"23":{"Ergo Mummy":"23","traits":{"Primary color":"White","Secondary
+    color":"Highlighted pink","Eyes/Strips color":"Brown","Eyes
+    shape":"Happy","Accessory":"Golden spear","Background":"Green"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreia7vdpydul6tyf6unyua4yi6zis4kluphno74liqaatwgk5vrelxi
+- tokenId: 75cb0d0c8485f5276551810d5361f6cbdb2c29c7e963cf37db0a195aab5c6c5e
+  name: 'Ergo Mummy #24'
+  description: >-
+    {"721":{"24":{"Ergo Mummy":"24","traits":{"Primary color":"Red","Secondary
+    color":"Green straight lines","Eyes/Strips color":"Violet","Eyes
+    shape":"Plus sign","Accessory":"None","Background":"Blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreib5tb4yl4y77w4glouupawps6edlteo2fvdnjyxcz4zrileyp2gbm
+- tokenId: 953885cee2acbe335088fa7458b4bf2cb2126c6017bc81ca42c032715e2f1a0b
+  name: 'Ergo Mummy #25'
+  description: >-
+    {"721":{"25":{"Ergo Mummy":"25","traits":{"Primary color":"Black","Secondary
+    color":"Turquoise","Eyes/Strips color":"Pink","Eyes shape":"Plus
+    sign","Accessory":"The Ankh","Background":"Golden"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidb5kwmd26zxuqdcugecobfxs4oepbvo5mzvwpd5dm6vfegmkt4se
+- tokenId: d149aeaac75e2b41931974fb09616d6c0f2a8e6637a26a8c87b902f2b4c004ba
+  name: 'Ergo Mummy #26'
+  description: >-
+    {"721":{"26":{"Ergo Mummy":"26","traits":{"Primary color":"Beige","Secondary
+    color":"Mossy green","Eyes/Strips color":"Lime","Eyes shape":"Plus
+    sign","Accessory":"Crook","Background":"Violet"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiaqkrwehqse3bdwnkutuurmamub5mfzzo7eyza4znczy5dvj5g72a
+- tokenId: 8d458a5d8fabac8f15dff62f68a47e2df4aa7b84ed662a470f4dce1736fb1378
+  name: 'Ergo Mummy #27'
+  description: >-
+    {"721":{"27":{"Ergo Mummy":"27","traits":{"Primary color":"White","Secondary
+    color":"Green straight lines","Eyes/Strips color":"Red","Eyes
+    shape":"Happy","Accessory":"Golden spear","Background":"Golden"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifoo5pzekfvzfybvqzfdorlrjbejit3x2t5vrzv2yvbuagu6amm7e
+- tokenId: 24935b697d862702e05655ee77eb527173b1cf6f0a2c693d2e61933b78cc22d2
+  name: 'Ergo Mummy #28'
+  description: >-
+    {"721":{"28":{"Ergo Mummy":"28","traits":{"Primary color":"Black","Secondary
+    color":"Cyan","Eyes/Strips color":"Lime","Eyes shape":"Plus
+    sign","Accessory":"Arrow","Background":"Purple"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiftjzegbqhaey32fd67fn5wxyw4yudmsoj267aw3ynga6quw35xs4
+- tokenId: e594b76ae0e3e767899c3fc7cd70e046b667c7b9253a436c444300ed0e729a80
+  name: 'Ergo Mummy #29'
+  description: >-
+    {"721":{"29":{"Ergo Mummy":"29","traits":{"Primary color":"Gray","Secondary
+    color":"Forest green","Eyes/Strips color":"Lime","Eyes
+    shape":"Happy","Accessory":"The Ankh","Background":"Red"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifgctrremkmqtdq5n4ahjow4ip36sajpmq6qkxgjm5mvggezibhy4
+- tokenId: 1575bdcb4481fd33df65e9095e48d71f6a36154717c0301b371fbee42bffcb33
+  name: 'Ergo Mummy #30'
+  description: >-
+    {"721":{"30":{"Ergo Mummy":"30","traits":{"Primary color":"Beige","Secondary
+    color":"Gray","Eyes/Strips color":"Orange","Eyes
+    shape":"Happy","Accessory":"None","Background":"Golden"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifzkjqmouofguwdcu5hzisli6zq3yqctdv6mff7tpcxxgronvitbm
+- tokenId: adad5daadb996430f9ad0317180c951f7bcdbb3c4b9932ea223f676ec0a99c53
+  name: 'Ergo Mummy #31'
+  description: >-
+    {"721":{"31":{"Ergo Mummy":"31","traits":{"Primary color":"White","Secondary
+    color":"Green straight lines","Eyes/Strips color":"Lime","Eyes shape":"Plus
+    sign","Accessory":"Ancient crown","Background":"Blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreibsruhjdafudzyytib4p2hz3prks3jx77gbg4k7cyiqjs67mno6cq
+- tokenId: a6effb85fa98f5c2966775804b8f3a18198627a6eaf79cbb31623d07408aff37
+  name: 'Ergo Mummy #32'
+  description: >-
+    {"721":{"32":{"Ergo Mummy":"32","traits":{"Primary color":"White","Secondary
+    color":"Green","Eyes/Strips color":"Lime","Eyes
+    shape":"Crosshair","Accessory":"Blue gem stick","Background":"Red"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreigqhm5mk5i7itx74oqfgy3pwm7softxhjougsnyfokemwxihzrxp4
+- tokenId: a2699fc1d287c7ea9a21f0a68bf4c6ac247b61ee97eb31a701280c9f6da80239
+  name: 'Ergo Mummy #33'
+  description: >-
+    {"721":{"33":{"Ergo Mummy":"33","traits":{"Primary color":"Black","Secondary
+    color":"Turquoise","Eyes/Strips color":"Violet","Eyes
+    shape":"Happy","Accessory":"Golden axe","Background":"Light blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreia2nasx67opjx4z74fpyg4japljyqo22vuluf7ddr6a3xv6dnrivy
+- tokenId: e515f658aa7a8e1b7328333c48d17f4b7e99fc31bb59925b891cbc759508e354
+  name: 'Ergo Mummy #34'
+  description: >-
+    {"721":{"34":{"Ergo Mummy":"34","traits":{"Primary color":"Black","Secondary
+    color":"Ocean blue","Eyes/Strips color":"Pink","Eyes shape":"Plus
+    sign","Accessory":"Golden spear","Background":"Violet"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreicqvf4ijvcozd4fqb73wftab2gmrsf3ejwieze3zaraqutginxqra
+- tokenId: d0f80834009029250a87306d59fd3f7ee5f7f280881cec3d0dab0be37bcbaea2
+  name: 'Ergo Mummy #35'
+  description: >-
+    {"721":{"35":{"Ergo Mummy":"35","traits":{"Primary color":"White","Secondary
+    color":"Orange circles","Eyes/Strips color":"Blue","Eyes
+    shape":"Happy","Accessory":"Crook","Background":"Light blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreick2kzp3vjx4jlog5z6n4lsvstbwra4zdgfkcv5mwyib2b2vwogxi
+- tokenId: 14e22f73affd22e803095ea04c30e171f540a8d53ca540da4385e29ba2b7349a
+  name: 'Ergo Mummy #36'
+  description: >-
+    {"721":{"36":{"Ergo Mummy":"36","traits":{"Primary color":"White","Secondary
+    color":"Emerald green","Eyes/Strips color":"Blue","Eyes
+    shape":"Happy","Accessory":"Golden axe","Background":"Violet"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreih2o6ib3ssq2wwhv34lbbq43tm6muekznowji667t3vlbabdulcoa
+- tokenId: cb27b3a73ed4ac47ccac261b67769cd90d2da9e41e9636386f3df926c2afe61b
+  name: 'Ergo Mummy #37'
+  description: >-
+    {"721":{"37":{"Ergo Mummy":"37","traits":{"Primary color":"White","Secondary
+    color":"Highlighted pink","Eyes/Strips color":"Red","Eyes shape":"Plus
+    sign","Accessory":"Crook","Background":"Golden"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiaine7plkm4fmwgqdim5c64nxndfzbozofaarvip567zsn5jdbntq
+- tokenId: 8a7472c55d979b77610319e8b57b5e8328d24bfe0d0aaa5b39eb7faa70a5d44e
+  name: 'Ergo Mummy #37'
+  description: >-
+    {"721":{"37":{"Ergo Mummy":"37","traits":{"Primary color":"White","Secondary
+    color":"Highlighted pink","Eyes/Strips color":"Orange","Eyes shape":"Plus
+    sign","Accessory":"Crook","Background":"Golden"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiaine7plkm4fmwgqdim5c64nxndfzbozofaarvip567zsn5jdbntq
+- tokenId: 567f479b2406bc95d3a90f799f55da806d633acfeed6ab25baa5fd10676d5680
+  name: 'Ergo Mummy #38'
+  description: >-
+    {"721":{"38":{"Ergo Mummy":"38","traits":{"Primary color":"Beige","Secondary
+    color":"Purple","Eyes/Strips color":"Blue","Eyes
+    shape":"Crosshair","Accessory":"Ancient crown","Background":"Light blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidopj7nducoe5wdndlfiqoqdpyk44cziso2o3arofjfxsmrd5qdya
+- tokenId: 1929ccce12333bf9c856950f6a6bd25a1e41da019b54446043bb66dd8da426bc
+  name: 'Ergo Mummy #39'
+  description: >-
+    {"721":{"39":{"Ergo Mummy":"39","traits":{"Primary color":"White","Secondary
+    color":"Ocean blue","Eyes/Strips color":"Orange","Eyes
+    shape":"Happy","Accessory":"Ancient sceptre","Background":"Orange"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreigr5qc5c6iytsgufwfqtbrrrmtyfq4lhvwcg6nz23tjxyftbeizua
+- tokenId: ba2e4a12557bfb930a43b9b73b9ea623eefb58313807411dd6931735124aa1c0
+  name: 'Ergo Mummy #40'
+  description: >-
+    {"721":{"40":{"Ergo Mummy":"40","traits":{"Primary color":"Black","Secondary
+    color":"Beige","Eyes/Strips color":"Brown","Eyes shape":"Plus
+    sign","Accessory":"Golden axe","Background":"Red"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreib5ny77euztcm4ffct6f7qb3zpsmjza5p2zh6qcxzlsdr6uilnpgu
+- tokenId: bc70423db2659337e43739135eb218c59568fcd8f694caf26808ea6245ee59b0
+  name: 'Ergo Mummy #41'
+  description: >-
+    {"721":{"41":{"Ergo Mummy":"41","traits":{"Primary color":"Gray","Secondary
+    color":"Beige","Eyes/Strips color":"Blue","Eyes shape":"Plus
+    sign","Accessory":"None","Background":"Green"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreieszbmz374znn7v66mccnymm57fkekroiiatlur6ojhkjhoqwutw4
+- tokenId: 61b95dbbc6715d800a6a92e863c89d3d5e83c48662d2141bdffa17c47831c6e3
+  name: 'Ergo Mummy #42'
+  description: >-
+    {"721":{"42":{"Ergo Mummy":"42","traits":{"Primary color":"Red","Secondary
+    color":"Beige","Eyes/Strips color":"Violet","Eyes
+    shape":"Crosshair","Accessory":"None","Background":"Blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiavu6zdhnbhahc6jf6uvnx34k5qtyyegvxuu6wmgisn2unzp7lkwu
+- tokenId: 75ed1d83ce1ddb72be75066a2aac02df37ab4163922907ab8c62718ab12eab9c
+  name: 'Ergo Mummy #43'
+  description: >-
+    {"721":{"43":{"Ergo Mummy":"43","traits":{"Primary color":"Red","Secondary
+    color":"Green straight lines","Eyes/Strips color":"Pink","Eyes
+    shape":"Crosshair","Accessory":"The Ankh","Background":"Red"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreigohf26bgsfllsaq3whdkfy5jsccj3r7ctft3wydzb5mlfiy7bexa
+- tokenId: 2469d708e87798a3bd263cc27dfca318b8cc105e02bee9c1b6779939d0a65f36
+  name: 'Ergo Mummy #44'
+  description: >-
+    {"721":{"44":{"Ergo Mummy":"44","traits":{"Primary color":"Red","Secondary
+    color":"Orange","Eyes/Strips color":"Blue","Eyes
+    shape":"Crosshair","Accessory":"Blue gem stick","Background":"Violet"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreid4msmu4l33cy4q2swwyz5gjrbppsr4zrmmm76x24zeby5r3lmf2u
+- tokenId: 4705dcdac555dd2297ad8c81d3be752de58337d0e1915229c3106abbe7b13124
+  name: 'Ergo Mummy #45'
+  description: >-
+    {"721":{"45":{"Ergo Mummy":"45","traits":{"Primary color":"Black","Secondary
+    color":"Ocean blue","Eyes/Strips color":"Lime","Eyes
+    shape":"Happy","Accessory":"Crook","Background":"Green"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreif64ofqt7j4yegf4yr7djgvpqgzdv57hwaql6i5acxi6e5xc64nua
+- tokenId: 11e3b27f8d7165d770acfde16ecd4a31054b74bc31c65f5c868401d53aa6dee2
+  name: 'Ergo Mummy #46'
+  description: >-
+    {"721":{"46":{"Ergo Mummy":"46","traits":{"Primary color":"White","Secondary
+    color":"Ocean blue","Eyes/Strips color":"Pink","Eyes shape":"Plus
+    sign","Accessory":"Golden spear","Background":"Light blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiaapjtgmpt5qd4vkpbb6bfmek3272gu2bapuuqhyd7yiotuiiodeu
+- tokenId: a1cc255991fca4dcf59f0ae9e43e8b366b47cb719b956275c43029255d026f7b
+  name: 'Ergo Mummy #47'
+  description: >-
+    {"721":{"47":{"Ergo Mummy":"47","traits":{"Primary color":"White","Secondary
+    color":"Golden circles","Eyes/Strips color":"Brown","Eyes shape":"Plus
+    sign","Accessory":"Ancient sceptre","Background":"Purple"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihovnphf3f5pmixgwjhyy3xmm2j7rribj7g35wbc3yqurvtooptqa
+- tokenId: b2dc8b4cd1d2e6a21574601a28b5356d630f66dda7e0aaa9983bba5870780388
+  name: 'Ergo Mummy #48'
+  description: >-
+    {"721":{"48":{"Ergo Mummy":"48","traits":{"Primary color":"White","Secondary
+    color":"Forest green","Eyes/Strips color":"Violet","Eyes shape":"Plus
+    sign","Accessory":"The Ankh","Background":"Green"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiho3vomoqogxx5un7gh3fjpkubh4oxvajjfpfdye5fh774mgtz6fi
+- tokenId: 7b3827464f67c8378a10d47ac20ec56fd0436d60081cee6af0ff65f473f006b4
+  name: 'Ergo Mummy #49'
+  description: >-
+    {"721":{"49":{"Ergo Mummy":"49","traits":{"Primary color":"Black","Secondary
+    color":"Turquoise","Eyes/Strips color":"Blue","Eyes shape":"Plus
+    sign","Accessory":"Blue gem stick","Background":"Orange"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreigflb562az2hi635r6ahhvitozlbpyyyac2rks74extqhddnxn26u
+- tokenId: 7dee9c521f873a071176d4e92e859ee4dd0fd25f4573eee94a76fe6bb1165018
+  name: 'Ergo Mummy #50'
+  description: >-
+    {"721":{"50":{"Ergo Mummy":"50","traits":{"Primary color":"White","Secondary
+    color":"Highlighted red","Eyes/Strips color":"Blue","Eyes shape":"Plus
+    sign","Accessory":"Ancient crown","Background":"Violet"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreih5nvmesrxosksq26wyuuackt5farj273iqidalgnzgj2r6sx2wqu
+- tokenId: f0f52a04bb092febcf7310f09b153fd4ff963cbc7cd5a43c004125199b059dde
+  name: 'Ergo Mummy #51'
+  description: >-
+    {"721":{"51":{"Ergo Mummy":"51","traits":{"Primary color":"White","Secondary
+    color":"Orange circles","Eyes/Strips color":"Pink","Eyes
+    shape":"Happy","Accessory":"ERG crown","Background":"Stonks common"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreibalrb4orsvemytw7w7resztmgu2pjcoqdizgqlphfpu5o6kkixbq
+- tokenId: eced389b39d08b86ceb8f1be69315f284e47832b6a237afe4f97013433c7be2e
+  name: 'Ergo Mummy #52'
+  description: >-
+    {"721":{"52":{"Ergo Mummy":"52","traits":{"Primary color":"Black","Secondary
+    color":"Beige","Eyes/Strips color":"Lime","Eyes shape":"Plus
+    sign","Accessory":"Golden wings","Background":"Cyan"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihjfxk52nkilrehrzid6qs5qq4qjrxa2ojbk26ahspcxveti3wraa
+- tokenId: 8ea7a92a124ee9072c7485b304bd405073ba332f5f2001fbbff9393ac17e0f08
+  name: 'Ergo Mummy #53'
+  description: >-
+    {"721":{"53":{"Ergo Mummy":"53","traits":{"Primary color":"Beige","Secondary
+    color":"Mossy green","Eyes/Strips color":"Blue","Eyes shape":"Plus
+    sign","Accessory":"ERG suit","Background":"Stonks common"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidygqwg6rw6z6gnh2qgfbuexlnh5o2fasdtu5yzd3ccxu4u4hgexy
+- tokenId: fe0837df7679b282c3d9c5ed2684ba4464fe3b0900ea22bce033354f4fafe4db
+  name: 'Ergo Mummy #54'
+  description: >-
+    {"721":{"54":{"Ergo Mummy":"54","traits":{"Primary color":"White","Secondary
+    color":"Golden circles","Eyes/Strips color":"Lime","Eyes
+    shape":"Crosshair","Accessory":"Golden spear","Background":"Violet"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifikjghkhfzhi3kijmr7jebpmbmndaoiw3g6cpeiyd77vmpgcd2sq
+- tokenId: 4146250f4263f2f2b9ba1c2b121e667755c88c1b848b4f389f38a6abad213105
+  name: 'Ergo Mummy #55'
+  description: >-
+    {"721":{"55":{"Ergo Mummy":"55","traits":{"Primary color":"Black","Secondary
+    color":"Turquoise","Eyes/Strips color":"Lime","Eyes
+    shape":"Crosshair","Accessory":"Ancient crown","Background":"Red"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreicdepabsljb5osavwuu4nt2sh73p7zb747werzdgu2l4mutgbxhxm
+- tokenId: 615bfe7d3aa399a48981066261da91104f5c97ccfebe35eda2a9ce8a32cce412
+  name: 'Ergo Mummy #56'
+  description: >-
+    {"721":{"56":{"Ergo Mummy":"56","traits":{"Primary color":"White","Secondary
+    color":"Green","Eyes/Strips color":"Red","Eyes
+    shape":"Happy","Accessory":"Ancient sceptre","Background":"Green"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiescxc65g7vzgxal54hayg7tsaiso6wkhtkeks26vtxop7zzzbp2m
+- tokenId: 6e955d0c82b35f3231ccf6c672ea6e8cac63239f7f46db465b9ce75409f19142
+  name: 'Ergo Mummy #57'
+  description: >-
+    {"721":{"57":{"Ergo Mummy":"57","traits":{"Primary color":"Beige","Secondary
+    color":"Gray","Eyes/Strips color":"Brown","Eyes shape":"Plus
+    sign","Accessory":"BTC crown-suit-sword","Background":"Stonks legendary"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihfemkmdsj45yeqmnitdhl42pw4mphschkmjde7svhua6lkrwzeq4
+- tokenId: ad932d793402df96be5e7d2086beffc24e01838fcb7d4d2731416fcb87a34486
+  name: 'Ergo Mummy #58'
+  description: >-
+    {"721":{"58":{"Ergo Mummy":"58","traits":{"Primary color":"White","Secondary
+    color":"Mossy green","Eyes/Strips color":"Orange","Eyes
+    shape":"Crosshair","Accessory":"None","Background":"Blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreicpbtbufoonwkn4djklljg2qb37qxs225xtxalne5v67vy47xwpia
+- tokenId: 6b6756e661c7a92e4fcab4ac5424a7a0f0310bb9d37cc71508ca75747c66d1c9
+  name: 'Ergo Mummy #59'
+  description: >-
+    {"721":{"59":{"Ergo Mummy":"59","traits":{"Primary color":"Beige","Secondary
+    color":"Purple","Eyes/Strips color":"Pink","Eyes shape":"Plus
+    sign","Accessory":"Crook","Background":"Golden"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreicycfwzijkvrnvia6jofxta32qpbndjhwcnucfl6yk6zchhs5qesi
+- tokenId: 076753192c2cc867e1eb4ef1179e616e55ca90d5a6c0978f5f327b6b21245dd2
+  name: 'Ergo Mummy #60'
+  description: >-
+    {"721":{"60":{"Ergo Mummy":"60","traits":{"Primary color":"White","Secondary
+    color":"Ocean blue","Eyes/Strips color":"Orange","Eyes
+    shape":"Crosshair","Accessory":"BTC crown-suit","Background":"Stonks
+    rare"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifa4z2fiqwhna6hyrxfmcflvxp3bwavst7dgs6o7zlfw2ug6xdwrm
+- tokenId: 0ab076edae58473d02d4688d7d3da0fc4a0d4e7df1104b026c73738c7d4907c7
+  name: 'Ergo Mummy #61'
+  description: >-
+    {"721":{"61":{"Ergo Mummy":"61","traits":{"Primary color":"Gray","Secondary
+    color":"Forest green","Eyes/Strips color":"Red","Eyes
+    shape":"Crosshair","Accessory":"Arrow","Background":"Green"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreielye6qajafhr5bidcdgwhgphtgky3qjgtrnfp2vedui45gwgmosa
+- tokenId: a18c62871697211813c29ae9d6f707525b712a230429a86dcab281fffedc3a79
+  name: 'Ergo Mummy #62'
+  description: >-
+    {"721":{"62":{"Ergo Mummy":"62","traits":{"Primary color":"White","Secondary
+    color":"Highlighted pink","Eyes/Strips color":"Blue","Eyes
+    shape":"Crosshair","Accessory":"ERG suit-sword","Background":"Stonks
+    rare"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiagxdfjxidwojzwjxmdofcahnnealitfbty5f655vbi63n3mfprne
+- tokenId: f9563687cac4983cc8e0f62ab4adfb596f1741f88627b83a33dbae913dc7c602
+  name: 'Ergo Mummy #63'
+  description: >-
+    {"721":{"63":{"Ergo Mummy":"63","traits":{"Primary color":"White","Secondary
+    color":"Orange circles","Eyes/Strips color":"Lime","Eyes shape":"Plus
+    sign","Accessory":"Golden axe","Background":"Red"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidza26peiqkd75zdhekervaeuyyzok5meu3px22m67fh5zkxyzefy
+- tokenId: 518f17f5dabd265e92af7dfced645b8d283a67c01970be4dc9c5e4688b54257f
+  name: 'Ergo Mummy #64'
+  description: >-
+    {"721":{"64":{"Ergo Mummy":"64","traits":{"Primary color":"Red","Secondary
+    color":"Beige","Eyes/Strips color":"Brown","Eyes shape":"Plus
+    sign","Accessory":"The Ankh","Background":"Golden"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreicwjajo72ab673d4vrhgxmnlrvubneae3xhmhxevn4bnhwsyr6rxm
+- tokenId: 4180fd9a2435eaddbe2e6e3abfc86f473ca62f538df69e2db50616d6a14e23a5
+  name: 'Ergo Mummy #65'
+  description: >-
+    {"721":{"65":{"Ergo Mummy":"65","traits":{"Primary color":"Gray","Secondary
+    color":"Beige","Eyes/Strips color":"Violet","Eyes
+    shape":"Crosshair","Accessory":"BTC crown","Background":"Stonks common"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihtwzanxngjhcbv6iurae4hxk5jjmdwqcaltwu2gheie7rwxazma4
+- tokenId: 2dd55fc19779c4061ab215b731048152bda9cdfa57dda3a198ff6fa3db6548aa
+  name: 'Ergo Mummy #66'
+  description: >-
+    {"721":{"66":{"Ergo Mummy":"66","traits":{"Primary color":"White","Secondary
+    color":"Forest green","Eyes/Strips color":"Orange","Eyes
+    shape":"Crosshair","Accessory":"Red gem stick","Background":"Blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiderwlefanriy5wtnyfdpaghlyrfwfkum5ipmyrk5vt3zhjzigcnq
+- tokenId: 90c262fac31b9338f23d24b9adf84af6490f16154e6fda00da972164a89b8d97
+  name: 'Ergo Mummy #67'
+  description: >-
+    {"721":{"67":{"Ergo Mummy":"67","traits":{"Primary color":"White","Secondary
+    color":"Highlighted red","Eyes/Strips color":"Violet","Eyes shape":"Plus
+    sign","Accessory":"Crook","Background":"Golden"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidmxpdmp6plr2vvhgznq7mbgccg2gzirbprod3n7pqjixmydjcgma
+- tokenId: 69bf27c3139c9cab6f0ef4a6f774b380ea9465b586d3d0d3ad79df73672df0df
+  name: 'Ergo Mummy #68'
+  description: >-
+    {"721":{"68":{"Ergo Mummy":"68","traits":{"Primary color":"White","Secondary
+    color":"Ocean blue","Eyes/Strips color":"Lime","Eyes shape":"Plus
+    sign","Accessory":"BTC suit","Background":"Stonks common"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiaj2z447tgsl7i3gkp7tyrdzx3ovudk7qqoq7hcis73pv5indsha4
+- tokenId: 94780cf2ac4442ffa539e299d6811a1e20f9621fc969498fef44c0111cef1e5e
+  name: 'Ergo Mummy #69'
+  description: >-
+    {"721":{"69":{"Ergo Mummy":"69","traits":{"Primary color":"White","Secondary
+    color":"Highlighted pink","Eyes/Strips color":"Pink","Eyes
+    shape":"Happy","Accessory":"Ancient sceptre","Background":"Cyan"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreigycus7nbe4snjf2e3nikvwc34ddczbicaofievyiaoi6fwlrgs2i
+- tokenId: 4d8f5d0530def65742e892b12cb29f038887d360165b56f82e6ad27c534940ae
+  name: 'Ergo Mummy #70'
+  description: >-
+    {"721":{"70":{"Ergo Mummy":"70","traits":{"Primary color":"Red","Secondary
+    color":"Beige","Eyes/Strips color":"Blue","Eyes
+    shape":"Happy","Accessory":"Golden axe","Background":"Violet"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihwwocaycoaqvfwxntgovpczhh2fe6klvxzdhon5phdt6grjjqeta
+- tokenId: 1c482d5ded418243333fe91994243e518e608df0d571a911198a8e72695b088b
+  name: 'Ergo Mummy #71'
+  description: >-
+    {"721":{"71":{"Ergo Mummy":"71","traits":{"Primary color":"Black","Secondary
+    color":"Ocean blue","Eyes/Strips color":"Violet","Eyes
+    shape":"Happy","Accessory":"Blue gem stick","Background":"Red"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreieo77lf7cmitwrkhnfy6y77o7ix4xrksiqzxg4jxorld5kz5zfbmq
+- tokenId: 93ea881599b3058fe4709bba76e5437ad006a83f6fdb0f4cd938971a95855eb3
+  name: 'Ergo Mummy #72'
+  description: >-
+    {"721":{"72":{"Ergo Mummy":"72","traits":{"Primary color":"White","Secondary
+    color":"Green straight lines","Eyes/Strips color":"Orange","Eyes
+    shape":"Happy","Accessory":"ERG crown-suit-sword","Background":"Stonks
+    legendary"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreigfw24jlbtmdgpw3almm4yzpiwyq44ipprxdau43rb2lvthtkdefa
+- tokenId: dad2eb24babc5a1f9921752fea19a4bb8d085f19b808fcb33632235268207004
+  name: 'Ergo Mummy #73'
+  description: >-
+    {"721":{"73":{"Ergo Mummy":"73","traits":{"Primary color":"Beige","Secondary
+    color":"Gray","Eyes/Strips color":"Pink","Eyes
+    shape":"Crosshair","Accessory":"Golden spear","Background":"Orange"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihcludcflxw76uxaq747r5qe7423lbh2xegvephetgdnba3nwwr4u
+- tokenId: 7a61a5b0ac3961e0b0044262bc8eac3849e8ad1f393000c64752757e263f9c80
+  name: 'Ergo Mummy #74'
+  description: >-
+    {"721":{"74":{"Ergo Mummy":"74","traits":{"Primary color":"Beige","Secondary
+    color":"Purple","Eyes/Strips color":"Lime","Eyes
+    shape":"Happy","Accessory":"Red gem stick","Background":"Blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihqc4b7glxfcwclqswtzdfkf3guqd4jidvxvgheutklfyhcbrvnom
+- tokenId: b9adbb08d73ab6f440fb90ac0903c07a1e5e65ed003f0686660ecc00db306fa0
+  name: 'Ergo Mummy #75'
+  description: >-
+    {"721":{"75":{"Ergo Mummy":"75","traits":{"Primary color":"White","Secondary
+    color":"Golden circles","Eyes/Strips color":"Red","Eyes
+    shape":"Happy","Accessory":"Crook","Background":"Red"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreievkc7rpnm54wp6tzab6kjzat57enudvyqutwbicsdw7t47mnrpiy
+- tokenId: 82b0be7b1a12b1aef15629e0833b7881ba11f93ebf5dd69f889eecc464ededd3
+  name: 'Ergo Mummy #76'
+  description: >-
+    {"721":{"76":{"Ergo Mummy":"76","traits":{"Primary color":"White","Secondary
+    color":"Highlighted red","Eyes/Strips color":"Lime","Eyes
+    shape":"Crosshair","Accessory":"Silver wings","Background":"Green"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifhlld2t2padok4agfmbll66brfmscqmkp32pfmrhsmsrghceew44
+- tokenId: e649faf2557f67d0787834a61ccea3c3aec1eed3af8472edea1463caa84aefe5
+  name: 'Ergo Mummy #77'
+  description: >-
+    {"721":{"77":{"Ergo Mummy":"77","traits":{"Primary color":"Red","Secondary
+    color":"Orange","Eyes/Strips color":"Brown","Eyes
+    shape":"Happy","Accessory":"None","Background":"Light blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreif3habqiwvqovcq4wivcie4wevaihob4dx6lrjpapdvuq2xncsaua
+- tokenId: 7abeea05afab7ccb97d1c270818b7371b59684a41c8ffcfc1b07ad83f24ddca1
+  name: 'Ergo Mummy #78'
+  description: >-
+    {"721":{"78":{"Ergo Mummy":"78","traits":{"Primary color":"Beige","Secondary
+    color":"Gray","Eyes/Strips color":"Brown","Eyes
+    shape":"Happy","Accessory":"Crook","Background":"Blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreicaze6vyfqsfv477kl36uy2qvnulo64zrwcsr75crpcd56bm2bqu4
+- tokenId: c411b4648b730e071d7065e85db5381e27ccab4e3313f71ee2f2ee3bf19cf84d
+  name: 'Ergo Mummy #79'
+  description: >-
+    {"721":{"79":{"Ergo Mummy":"79","traits":{"Primary color":"Black","Secondary
+    color":"Cyan","Eyes/Strips color":"Brown","Eyes shape":"Plus
+    sign","Accessory":"Golden spear","Background":"Red"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreibakre2ua3pmc5xycigai4j3ivz3f6vj3ah5zyjoas3dvcu6ilzby
+- tokenId: a7d1e975c2de94115a0911bbdfae9e6890eae42447a8b9b042b368f27ac25029
+  name: 'Ergo Mummy #80'
+  description: >-
+    {"721":{"80":{"Ergo Mummy":"80","traits":{"Primary color":"White","Secondary
+    color":"Orange circles","Eyes/Strips color":"Red","Eyes shape":"Plus
+    sign","Accessory":"Arrow","Background":"Cyan"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreibmi7tdbdkz3ktayd4dmc3aatevcouid6opr6uwq3fmytacfvcmse
+- tokenId: c7226852e0dffa91a40ced157ad8d89e2dc319aeeee7180ff4da1144c20ad79d
+  name: 'Ergo Mummy #81'
+  description: >-
+    {"721":{"81":{"Ergo Mummy":"81","traits":{"Primary color":"Black","Secondary
+    color":"Ocean blue","Eyes/Strips color":"Orange","Eyes
+    shape":"Crosshair","Accessory":"Golden axe","Background":"Light blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreid75bjdbwivwvfneyl72yfxuokuz3hcfi3g2cvwvwnj64gvhhtgki
+- tokenId: dc496c146e1cb647b5b8499d81723c6a4640da1decdb8d06bc2e16f957ed7648
+  name: 'Ergo Mummy #82'
+  description: >-
+    {"721":{"82":{"Ergo Mummy":"82","traits":{"Primary color":"White","Secondary
+    color":"Ocean blue","Eyes/Strips color":"Violet","Eyes
+    shape":"Crosshair","Accessory":"Golden wings","Background":"Red"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifpyohjnyexuexfyby23tfkl7llb6cjxg5pwu2syfdcmqiutwvtim
+- tokenId: ef3d5104994414d825ec1fa92bd0c801ef84010a4d3c5f5061e8d57d3aac8dc6
+  name: 'Ergo Mummy #83'
+  description: >-
+    {"721":{"83":{"Ergo Mummy":"83","traits":{"Primary color":"Gray","Secondary
+    color":"Beige","Eyes/Strips color":"Red","Eyes shape":"Plus
+    sign","Accessory":"ERG crown-suit","Background":"Stonks rare"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreibrcx6m37zut65p47cdrxhnx4uom7shofzxwq276m3cecsvt7bium
+- tokenId: e75c4d642d86760e4e8016f5fe8dcd5d72a00c2f6d771b745cafa2aed1352f8f
+  name: 'Ergo Mummy #84'
+  description: >-
+    {"721":{"84":{"Ergo Mummy":"84","traits":{"Primary color":"Red","Secondary
+    color":"Green straight lines","Eyes/Strips color":"Lime","Eyes
+    shape":"Happy","Accessory":"Red gem stick","Background":"Green"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihxhvzd2tyxthxmxhjopcett33luuajsb2zzx2pwdatpra527nmeq
+- tokenId: f1011a656f398ae8cf3e74c8ec14bb8956b53d6ef305f0061c3b0d74b477315d
+  name: 'Ergo Mummy #85'
+  description: >-
+    {"721":{"85":{"Ergo Mummy":"85","traits":{"Primary color":"White","Secondary
+    color":"Highlighted pink","Eyes/Strips color":"Lime","Eyes
+    shape":"Happy","Accessory":"ERG sword","Background":"Stonks common"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifgtdb5xlmcrxnt2pnq6fs4o3imtwx3yy43kmfly3vfrchomtvopu
+- tokenId: a676501e1a9a4d63bdb5453d6b8de8a1394c37561078114d9b7a66a5caf9a2dd
+  name: 'Ergo Mummy #86'
+  description: >-
+    {"721":{"86":{"Ergo Mummy":"86","traits":{"Primary color":"White","Secondary
+    color":"Golden circles","Eyes/Strips color":"Blue","Eyes shape":"Plus
+    sign","Accessory":"Red gem stick","Background":"Orange"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihjpqiok67zwgybcuz6qbqwnrkmtfnfvxgkuwoyikdj4rteknlemu
+- tokenId: 17c98f5e6268dd56a19b14b753a941ef6818191956b57b725fc96d894e07e360
+  name: 'Ergo Mummy #87'
+  description: >-
+    {"721":{"87":{"Ergo Mummy":"87","traits":{"Primary color":"White","Secondary
+    color":"Green","Eyes/Strips color":"Orange","Eyes shape":"Plus
+    sign","Accessory":"Silver wings","Background":"Golden"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiexajhtfkl2jiapc26jeliq42gv7cnvzvkiqmqgtjgpado7oiqfji
+- tokenId: 8f128c51163ca120b287eab72f4aab1a4fb09742369bdc292749a48cc8fbadcc
+  name: 'Ergo Mummy #88'
+  description: >-
+    {"721":{"88":{"Ergo Mummy":"88","traits":{"Primary color":"White","Secondary
+    color":"Green straight lines","Eyes/Strips color":"Orange","Eyes
+    shape":"Plus sign","Accessory":"Golden axe","Background":"Red"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreig74ian5hdzvjdvafx66dm35hjzs7u6o7shvtpf5mr47idmqlx6zu
+- tokenId: 55d3e8b2e2b4efe55709ac88fcc4835c6db497094227b96f41c6bf8d591f5be0
+  name: 'Ergo Mummy #89'
+  description: >-
+    {"721":{"89":{"Ergo Mummy":"89","traits":{"Primary color":"Black","Secondary
+    color":"Beige","Eyes/Strips color":"Red","Eyes
+    shape":"Crosshair","Accessory":"The Ankh","Background":"Orange"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreib22cra2mgf4l6fjxfqolkg4pukpxd5lq7cih2wtdhtfkwhs33iky
+- tokenId: a34dffb1520460e996bbcce76d577c60d6845954c5e8ff196d422824b3b0082c
+  name: 'Ergo Mummy #90'
+  description: >-
+    {"721":{"90":{"Ergo Mummy":"90","traits":{"Primary color":"White","Secondary
+    color":"Forest green","Eyes/Strips color":"Brown","Eyes
+    shape":"Crosshair","Accessory":"Ancient sceptre","Background":"Purple"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiaixxcfkw4ltn4kimgjiuwobaglirv4v7aap4mixgnpij6luayvvm
+- tokenId: 52cb5f2190f649bc6608d38df478558c679e435616e3f23b55974704de75cfb5
+  name: 'Ergo Mummy #91'
+  description: >-
+    {"721":{"91":{"Ergo Mummy":"91","traits":{"Primary color":"White","Secondary
+    color":"Mossy green","Eyes/Strips color":"Brown","Eyes shape":"Plus
+    sign","Accessory":"Red gem stick","Background":"Light blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreig4sz6xweqvwkzkctqhy67ctowb4jancuedp2w5hb5tnvcvq7za54
+- tokenId: 0ac51face86afa22ce91c6b188a77033e76ae502a4470ee7c34b5ea3c45bab61
+  name: 'Ergo Mummy #92'
+  description: >-
+    {"721":{"92":{"Ergo Mummy":"92","traits":{"Primary color":"Black","Secondary
+    color":"Cyan","Eyes/Strips color":"Red","Eyes
+    shape":"Happy","Accessory":"Crook","Background":"Golden"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidaawhkqmumft27ji3jpxfzu4vwxpr5t3haj7da7kkbash2jnsfmi
+- tokenId: 56df0554e89656ce2f536ee99806694a1022c15866ae002b3ea60f5fd1f78e39
+  name: 'Ergo Mummy #93'
+  description: >-
+    {"721":{"93":{"Ergo Mummy":"93","traits":{"Primary color":"Black","Secondary
+    color":"Turquoise","Eyes/Strips color":"Brown","Eyes shape":"Plus
+    sign","Accessory":"Golden spear","Background":"Violet"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihvtna7uq7xx27hnaab3zdpaf7d6gubqycop66ztpsvxgj2gxag5m
+- tokenId: bb02fa1c0943b60b0bc32c7d420b1fb1eec8db16f50459d5cb328050222c3309
+  name: 'Ergo Mummy #94'
+  description: >-
+    {"721":{"94":{"Ergo Mummy":"94","traits":{"Primary color":"Gray","Secondary
+    color":"Forest green","Eyes/Strips color":"Pink","Eyes shape":"Plus
+    sign","Accessory":"Crook","Background":"Orange"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreigj73pxuwehpsurtxy7b7z3jvuu72jgfagfxeot5xylen5obioe6q
+- tokenId: db5a7c11ffdb71e02f0a7481945d4b745ac594bc2638cdffc8bc498d04eeb1fe
+  name: 'Ergo Mummy #95'
+  description: >-
+    {"721":{"95":{"Ergo Mummy":"95","traits":{"Primary color":"Beige","Secondary
+    color":"Purple","Eyes/Strips color":"Brown","Eyes
+    shape":"Happy","Accessory":"BTC crown-sword","Background":"Stonks rare"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifh7lvwdu3snsyjnj5xw7rblftlk4pcvavvms3mk7zgoyoeqdhnau
+- tokenId: d1ebde4e24e5ccfa007693d6c87d37036c4433b4926c1aa256c0ddf6afe0a601
+  name: 'Ergo Mummy #96'
+  description: >-
+    {"721":{"96":{"Ergo Mummy":"96","traits":{"Primary color":"Red","Secondary
+    color":"Green straight lines","Eyes/Strips color":"Orange","Eyes
+    shape":"Happy","Accessory":"Golden axe","Background":"Light blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihumgwonedqry43ufn4bcvejx4bans6zwiiqjxse23eas6iqehbue
+- tokenId: 4f5fedba0d75ec1ec18193e1b632423301c7a3bc52c356a0ee3efad46a696764
+  name: 'Ergo Mummy #97'
+  description: >-
+    {"721":{"97":{"Ergo Mummy":"97","traits":{"Primary color":"Red","Secondary
+    color":"Beige","Eyes/Strips color":"Lime","Eyes
+    shape":"Happy","Accessory":"Golden spear","Background":"Orange"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidvruzgaqfgwpmalapkobz4npziwm7tk6cmizlguiaz6gzl5hc4km
+- tokenId: 72dcc323bcba29e50b5d03434352c969b818df757651b678708f02159d502352
+  name: 'Ergo Mummy #98'
+  description: >-
+    {"721":{"98":{"Ergo Mummy":"98","traits":{"Primary color":"Red","Secondary
+    color":"Orange","Eyes/Strips color":"Violet","Eyes shape":"Plus
+    sign","Accessory":"Silver wings","Background":"Purple"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreic4tu56n7ca6iaxnx6y5obpoaiph2ngkleukggyrp5m4gz2walrcq
+- tokenId: 64555172b342acfc81c62df4410590ab7090b138bbe3436200557a153ebe1b8f
+  name: 'Ergo Mummy #99'
+  description: >-
+    {"721":{"99":{"Ergo Mummy":"99","traits":{"Primary color":"Black","Secondary
+    color":"Cyan","Eyes/Strips color":"Orange","Eyes
+    shape":"Crosshair","Accessory":"None","Background":"Green"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreie2wzx4e2seuicgwftgwdp4vdyt4ghhixkshxoipwdrnl4ufps5iy
+- tokenId: ae1de55236b89dea0f05a9dd1b2e4554106e5f3fd8d2d289745de0e18ed0e55d
+  name: 'Ergo Mummy #100'
+  description: >-
+    {"721":{"100":{"Ergo Mummy":"100","traits":{"Primary
+    color":"Beige","Secondary color":"Forest green","Eyes/Strips
+    color":"Orange","Eyes shape":"Plus sign","Accessory":"Golden
+    spear","Background":"Light blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiexz2awcpf57cjn4woieudseabk7nxhxq6wvcqrff4wbyaxoth2fa
+- tokenId: 142b23a40be9d256550a40c2020e81ee2ad04c01209637179486a4cf1130eee8
+  name: 'Ergo Mummy #101'
+  description: >-
+    {"721":{"101":{"Ergo Mummy":"101","traits":{"Primary color":"Red","Secondary
+    color":"Green straight lines","Eyes/Strips color":"Blue","Eyes
+    shape":"Crosshair","Accessory":"Crook","Background":"Golden"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreie4w5abwjkedgoqozdx7q6h4g35fnmoaoqiltvxq44pifr3a5mrk4
+- tokenId: 043a913dc0c14cdde688d2010552b261b58f2223ee48d8f888ec1d386d36a9a7
+  name: 'Ergo Mummy #102'
+  description: >-
+    {"721":{"102":{"Ergo Mummy":"102","traits":{"Primary
+    color":"Gray","Secondary color":"Beige","Eyes/Strips color":"Brown","Eyes
+    shape":"Crosshair","Accessory":"Blue gem stick","Background":"Red"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiddtkjd3nodqg4txanaowb2rv67a5xrzrq6grfcmfiux2au6ikuxu
+- tokenId: 543de86203ed3ebe73ac32ffdce198676bf05738f890f245dc7844d909506a7b
+  name: 'Ergo Mummy #103'
+  description: >-
+    {"721":{"103":{"Ergo Mummy":"103","traits":{"Primary
+    color":"Gray","Secondary color":"Forest green","Eyes/Strips
+    color":"Brown","Eyes shape":"Happy","Accessory":"Golden
+    spear","Background":"Violet"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiby7mj3vmpibktb67ruqjcrnxsixhc46o7bh7igpn4kkmk5x6ptgi
+- tokenId: f67823fc268dde5fb107c6d1bd57680af40d5f77e326f3c2aefb40b52d98ecc3
+  name: 'Ergo Mummy #104'
+  description: >-
+    {"721":{"104":{"Ergo Mummy":"104","traits":{"Primary
+    color":"Black","Secondary color":"Beige","Eyes/Strips color":"Purple","Eyes
+    shape":"Happy","Accessory":"None","Background":"Blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifzotd52lwwrnebjcppab4jfiucelg3tbphoagmeoxv7wap3vzlzu
+- tokenId: 091fbccda964e1f332addad0099de403642c3adaed4e3420fc4668217282f2e1
+  name: 'Ergo Mummy #104'
+  description: >-
+    {"721":{"104":{"Ergo Mummy":"104","traits":{"Primary
+    color":"Black","Secondary color":"Beige","Eyes/Strips color":"Violet","Eyes
+    shape":"Happy","Accessory":"None","Background":"Blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifzotd52lwwrnebjcppab4jfiucelg3tbphoagmeoxv7wap3vzlzu
+- tokenId: 1d3a137838ad2939c0157382414029d32d9f4d07e37e073934225df69d005bee
+  name: 'Ergo Mummy #105'
+  description: >-
+    {"721":{"105":{"Ergo Mummy":"105","traits":{"Primary
+    color":"Beige","Secondary color":"Gray","Eyes/Strips color":"Lime","Eyes
+    shape":"Plus sign","Accessory":"Blue gem stick","Background":"Green"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifwxungan5ku5krmf7ewvtzh4lwn2cgnqm364l3rmcmvpcoxrbrhy
+- tokenId: 1c24e11fdf52c2ccff7e1e22d10a48e00497f9a2c3a95cd1551d1a9f5f022223
+  name: 'Ergo Mummy #106'
+  description: >-
+    {"721":{"106":{"Ergo Mummy":"106","traits":{"Primary
+    color":"White","Secondary color":"Forest green","Eyes/Strips
+    color":"Pink","Eyes shape":"Plus sign","Accessory":"Ancient
+    crown","Background":"Orange"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifteoltdoghyeyhmr7h7xxdmutqlo3th3d2uhujeeggjb5yqjz4xe
+- tokenId: f1679c4e9ed68f255b338d1df5b0a84cd80831ded07286a9c3fbb5b8471d7cfc
+  name: 'Ergo Mummy #107'
+  description: >-
+    {"721":{"107":{"Ergo Mummy":"107","traits":{"Primary
+    color":"White","Secondary color":"Golden circles","Eyes/Strips
+    color":"Orange","Eyes shape":"Happy","Accessory":"None","Background":"Light
+    blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifwf4thp4opcdvuyxmelbzxrtyzvy54oosxvxy3uql7aeluyec7gi
+- tokenId: 3fab9724b123c2d5a5562116f17b5c711e73e14f1505995d552b54a1cafe7736
+  name: 'Ergo Mummy #108'
+  description: >-
+    {"721":{"108":{"Ergo Mummy":"108","traits":{"Primary color":"Red","Secondary
+    color":"Beige","Eyes/Strips color":"Pink","Eyes shape":"Plus
+    sign","Accessory":"None","Background":"Light green"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiepxuze5xwm73p6jhbqsel63kz26kcsinyhezrf52rc2lygdcrici
+- tokenId: b75a9ddcf555dcb1655ce70356cb6ce62cfbea1536bd7dbdf5359712e384480c
+  name: 'Ergo Mummy #108'
+  description: >-
+    {"721":{"108":{"Ergo Mummy":"108","traits":{"Primary color":"Red","Secondary
+    color":"Beige","Eyes/Strips color":"Pink","Eyes shape":"Plus
+    sign","Accessory":"Ancient crown","Background":"Green"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiepxuze5xwm73p6jhbqsel63kz26kcsinyhezrf52rc2lygdcrici
+- tokenId: e1d66c06db7dac5dd404195d43293540e8eb7f30c597da2aa9faaed8f7a90ca8
+  name: 'Ergo Mummy #109'
+  description: >-
+    {"721":{"109":{"Ergo Mummy":"109","traits":{"Primary
+    color":"White","Secondary color":"Ocean blue","Eyes/Strips
+    color":"Lime","Eyes shape":"Happy","Accessory":"The
+    Ankh","Background":"Golden"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreicsmibpczp7gciokzzzcpxh4pkehn2dkdl46d6gylc3ciivtpbxou
+- tokenId: 2c8f442effe2278a0bb56044aafd57fd9950b16e624775569dd51ef43550ed10
+  name: 'Ergo Mummy #110'
+  description: >-
+    {"721":{"110":{"Ergo Mummy":"110","traits":{"Primary
+    color":"Gray","Secondary color":"Forest green","Eyes/Strips
+    color":"Blue","Eyes shape":"Plus sign","Accessory":"Golden
+    axe","Background":"Light blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihhudkjtaaff7k6e2fvamw5dqhlvboz2zxnsbkgjr47g5z6bsvcr4
+- tokenId: b2e1a1fb90b22ce9a766ebf11c2ff5e91958240cdd26416e7ffe851952f3dd5a
+  name: 'Ergo Mummy #111'
+  description: >-
+    {"721":{"111":{"Ergo Mummy":"111","traits":{"Primary
+    color":"White","Secondary color":"Highlighted pink","Eyes/Strips
+    color":"Purple","Eyes shape":"Plus sign","Accessory":"Blue gem
+    stick","Background":"Red"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreibob5hlfmvxri3wgtvvf2eo64r6iqgu7lonva4cj46hud433hgs3u
+- tokenId: c40e62fa29e4452df5b886f2dae97d7dc276af38f3bb7245b853d7eff0e4ad5b
+  name: 'Ergo Mummy #111'
+  description: >-
+    {"721":{"111":{"Ergo Mummy":"111","traits":{"Primary
+    color":"White","Secondary color":"Highlighted pink","Eyes/Strips
+    color":"Violet","Eyes shape":"Plus sign","Accessory":"Blue gem
+    stick","Background":"Red"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreibob5hlfmvxri3wgtvvf2eo64r6iqgu7lonva4cj46hud433hgs3u
+- tokenId: 87f7493d7e73a6c3913324fcfa576423e140ea539ef328aaa50b915d6d83e15d
+  name: 'Ergo Mummy #111'
+  description: >-
+    {"721":{"111":{"Ergo Mummy":"111","traits":{"Primary
+    color":"Gray","Secondary color":"Forest green","Eyes/Strips
+    color":"Red","Eyes shape":"Happy","Accessory":"Red gem
+    stick","Background":"Purple"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreibt2ids6fazzl76uhqjo3dwncpxnfdtq32emuqi6yb3pccy4bmpta
+- tokenId: 938b063563771435d341995b9dda8194bfddfb824bc2639a50a81e9eb2a28ae2
+  name: 'Ergo Mummy #112'
+  description: >-
+    {"721":{"112":{"Ergo Mummy":"112","traits":{"Primary
+    color":"Black","Secondary color":"Turquoise","Eyes/Strips color":"Red","Eyes
+    shape":"Plus sign","Accessory":"None","Background":"Blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreibag4hy7b2lqii2wypaapqa66qiy5p3nyxw6ssilzkzipzp23pouu
+- tokenId: cca080351a62a6971ee350fa5bfc24e03b67c17002d2095ea20da4bea22d5b8e
+  name: 'Ergo Mummy #112'
+  description: >-
+    {"721":{"112":{"Ergo Mummy":"112","traits":{"Primary
+    color":"Beige","Secondary color":"Gray","Eyes/Strips color":"Red","Eyes
+    shape":"Happy","Accessory":"Arrow","Background":"Purple"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidxnhzdgmnl44wqkunselew4t5y33cnhghkvgtmrdwme2gaini72u
+- tokenId: 9ef9e102a0bf13f24bb7fd7ceca0c132efadd6f9c483f7a4b98f5e0f0eb3b40d
+  name: 'Ergo Mummy #113'
+  description: >-
+    {"721":{"113":{"Ergo Mummy":"113","traits":{"Primary
+    color":"White","Secondary color":"Highlighted red","Eyes/Strips
+    color":"Pink","Eyes shape":"Crosshair","Accessory":"Golden
+    axe","Background":"Light blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidg2dfa3ec6i7ixigvwkga2osvzbi7revslrqnbyc4rj2rfih232q
+- tokenId: f3b23e87265260a99865daaa4f9686c56518684c861ca4efd5f34405c35a13cd
+  name: 'Ergo Mummy #114'
+  description: >-
+    {"721":{"114":{"Ergo Mummy":"114","traits":{"Primary
+    color":"White","Secondary color":"Green","Eyes/Strips color":"Pink","Eyes
+    shape":"Happy","Accessory":"Crook","Background":"Purple"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiflzkkgumyqhdumxcfea2wr5i6rtbotgxh7fai7ysfpkokkmeoloq
+- tokenId: e4a0c3d8ffc13005f264a450e1ef8c2c58e984821e5000b7e2f416a028a19b49
+  name: 'Ergo Mummy #114'
+  description: >-
+    {"721":{"114":{"Ergo Mummy":"114","traits":{"Primary
+    color":"White","Secondary color":"Green","Eyes/Strips color":"Pink","Eyes
+    shape":"Happy","Accessory":"Crook","Background":"Violet"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiflzkkgumyqhdumxcfea2wr5i6rtbotgxh7fai7ysfpkokkmeoloq
+- tokenId: 531fde3530ce5edff2c2f382f696a8b8a6524347d6890d2c74bc203a0d5be881
+  name: 'Ergo Mummy #115'
+  description: >-
+    {"721":{"115":{"Ergo Mummy":"115","traits":{"Primary
+    color":"White","Secondary color":"Orange circles","Eyes/Strips
+    color":"Brown","Eyes shape":"Happy","Accessory":"The
+    Ankh","Background":"Golden"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreienlj3wxdez3gwqe5uin3ob46z3tjnxcfz7rinclpocz3otxllooe
+- tokenId: d92335c29d7e9c00d0b36917162263b57c44001594ffad69dfa35bfaf1d3eb3d
+  name: 'Ergo Mummy #116'
+  description: >-
+    {"721":{"116":{"Ergo Mummy":"116","traits":{"Primary
+    color":"Beige","Secondary color":"Mossy green","Eyes/Strips
+    color":"Violet","Eyes shape":"Crosshair","Accessory":"Golden
+    axe","Background":"ErgoGames 1"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreig23fvjkgalladno3s26sltap42luzxuousbosgmvbpllqblhvu4e
+- tokenId: 36f8cfc04273535a84ef8c904ed141dfda6dc0189572dd3e1833a6ab01141892
+  name: 'Ergo Mummy #116'
+  description: >-
+    {"721":{"116":{"Ergo Mummy":"116","traits":{"Primary
+    color":"Beige","Secondary color":"Mossy green","Eyes/Strips
+    color":"Violet","Eyes shape":"Crosshair","Accessory":"Golden
+    axe","Background":"ErgoGames 1"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreia6fhilzfz2spsabe3tssqyihgsjnvyyawh5rhomp6dorzztgjeka
+- tokenId: e28a2835bafe9f0e521bc0310d578ab1552844c24db69e26cecb05072f2ff811
+  name: 'Ergo Mummy #116'
+  description: >-
+    {"721":{"116":{"Ergo Mummy":"116","traits":{"Primary
+    color":"Beige","Secondary color":"Mossy green","Eyes/Strips
+    color":"Violet","Eyes shape":"Crosshair","Accessory":"Golden
+    axe","Background":"Green"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiarqi2ariiaqq4avilwqjdbnivtjmgdtssoqr2viugjgscjite4ve
+- tokenId: 2aa15f83e3439a9829ccfabefe2003de5671635e9ddce29855545b07aa898ae6
+  name: 'Ergo Mummy #117'
+  description: >-
+    {"721":{"117":{"Ergo Mummy":"117","traits":{"Primary color":"Red","Secondary
+    color":"Orange","Eyes/Strips color":"Pink","Eyes shape":"Plus
+    sign","Accessory":"The Ankh","Background":"Blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreief2waf45fxysfuikm4dd2ey2ozrlkeneqsrcixvxykmrsylqyioi
+- tokenId: 310569703dda4d8f4e4aac1f5f32851fccd29b625d4c96ac0ef88cb19f2517a5
+  name: 'Ergo Mummy #118'
+  description: >-
+    {"721":{"118":{"Ergo Mummy":"118","traits":{"Primary
+    color":"Black","Secondary color":"Beige","Eyes/Strips color":"Blue","Eyes
+    shape":"Crosshair","Accessory":"Golden spear","Background":"Golden"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreicx6k4hwiumh5euj7t7id2a2lphle2zaa3yp35egoy3ehygenkw7y
+- tokenId: 2d56cfc1890d1c3eb9d052af2893efec872a3d772a9acc58e606379d3f6d65ad
+  name: 'Ergo Mummy #119'
+  description: >-
+    {"721":{"119":{"Ergo Mummy":"119","traits":{"Primary
+    color":"White","Secondary color":"Green straight lines","Eyes/Strips
+    color":"Red","Eyes shape":"Plus sign","Accessory":"BTC
+    sword","Background":"Stonks common"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreif3zyxueagzg6woxuh656n4hcvnzihy2dsbp4yf5xgmz7ozftbqu4
+- tokenId: 7f1844f85fdbc81a0fcd52717d1523d7ebb2792714750fa5edc63b03293461fd
+  name: 'Ergo Mummy #119'
+  description: >-
+    {"721":{"119":{"Ergo Mummy":"119","traits":{"Primary
+    color":"White","Secondary color":"Green straight lines","Eyes/Strips
+    color":"Brown","Eyes
+    shape":"Crosshair","Accessory":"None","Background":"Orange"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiczbk3s53dlh6n54o2lm2e2ux4jyw5kdgtbczgjl2acrq3jotwou4
+- tokenId: 30da5c08f813245d725682bf41abc717136be8f83e5c608c788a75d6f1e907a3
+  name: 'Ergo Mummy #120'
+  description: >-
+    {"721":{"120":{"Ergo Mummy":"120","traits":{"Primary
+    color":"Black","Secondary color":"Cyan","Eyes/Strips color":"Pink","Eyes
+    shape":"Happy","Accessory":"Crook","Background":"Purple"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreid22k3qct55ojl2tmikfq7wccwo4qzctt5ysg53jiylbnktpjgnxy
+- tokenId: 7501ba84eb6d5c99068474f9667c4c86ad7da61fb6239a7ac02460d89c651d7d
+  name: 'Ergo Mummy #120'
+  description: >-
+    {"721":{"120":{"Ergo Mummy":"120","traits":{"Primary
+    color":"Black","Secondary color":"Cyan","Eyes/Strips color":"Pink","Eyes
+    shape":"Happy","Accessory":"The Ankh","Background":"Purple"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreid22k3qct55ojl2tmikfq7wccwo4qzctt5ysg53jiylbnktpjgnxy
+- tokenId: 62d8dbffd782f4f5697f4d3eb4e62a9ffc11ccb26a4cdada1114f6499829c97f
+  name: 'Ergo Mummy #120'
+  description: >-
+    {"721":{"120":{"Ergo Mummy":"120","traits":{"Primary
+    color":"Black","Secondary color":"Cyan","Eyes/Strips color":"Pink","Eyes
+    shape":"Happy","Accessory":"The Ankh","Background":"Violet"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreid22k3qct55ojl2tmikfq7wccwo4qzctt5ysg53jiylbnktpjgnxy
+- tokenId: 91795bbdf1a3eb8c0188d0649a7c92fc01bf03b48d99c20c8d49df8c0e159cae
+  name: 'Ergo Mummy #121'
+  description: >-
+    {"721":{"121":{"Ergo Mummy":"121","traits":{"Primary
+    color":"Beige","Secondary color":"Purple","Eyes/Strips color":"Brown","Eyes
+    shape":"Crosshair","Accessory":"Golden spear","Background":"Green"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreig7wr2xjtjniiujplmkdltup6iqgn4nc47kwaelb26ymb35u4ieeq
+- tokenId: 27730405f8623eee8d4855b59ae1bf7dfc1ce2fd969a1e208568c943d506d0e4
+  name: 'Ergo Mummy #122'
+  description: >-
+    {"721":{"122":{"Ergo Mummy":"122","traits":{"Primary
+    color":"Black","Secondary color":"Ocean blue","Eyes/Strips
+    color":"Red","Eyes
+    shape":"Happy","Accessory":"Arrow","Background":"ErgoGames 1"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreieen5mjerhyc5liqahabrnmvw3xdlzb4nrhffkbt6xzuxodcdpqwq
+- tokenId: d1462eb48839d0f7e89e5d7381ac6d54a237d9a0bc9b72c1d0c6b28eeddeb37f
+  name: 'Ergo Mummy #122'
+  description: >-
+    {"721":{"122":{"Ergo Mummy":"122","traits":{"Primary
+    color":"Black","Secondary color":"Ocean blue","Eyes/Strips
+    color":"Red","Eyes shape":"Happy","Accessory":"The
+    Ankh","Background":"Golden"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreieprw4b4bqjpssjqhworiuwqqhkf5a4tpwvjslfnm2dkfrs2cj264
+- tokenId: 7c96d87c958924eb89e81be56ee41839f8a21e0e8bb796c6092c21a74c3e1ba0
+  name: 'Ergo Mummy #123'
+  description: >-
+    {"721":{"123":{"Ergo Mummy":"123","traits":{"Primary
+    color":"White","Secondary color":"Highlighted red","Eyes/Strips
+    color":"Brown","Eyes
+    shape":"Happy","Accessory":"None","Background":"Blue"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiddsk2km4yfoclgzm77vvwpazzb7gd2exammvvmsugppmygnllnum
+- tokenId: 5f9840c5b6849277b30f2e72edba997725ad7b6c780455f4f76a98ef0510f555
+  name: 'Ergo Mummy #123'
+  description: >-
+    {"721":{"123":{"Ergo Mummy":"123","traits":{"Primary
+    color":"Beige","Secondary color":"Gray","Eyes/Strips color":"Red","Eyes
+    shape":"Plus sign","Accessory":"Blitz skin","Background":"Purple"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihslguxe55jtvbbs6lm5jaml5jtqpjzgjspytlumtlszozhhsusdu
+- tokenId: fb69741da6b72a8081fe75655f19518399d162dd78df6db7dc177d1d9e4ba6c0
+  name: 'Ergo Mummy #124'
+  description: >-
+    {"721":{"124":{"Ergo Mummy":"124","traits":{"Primary color":"Red","Secondary
+    color":"Orange","Eyes/Strips color":"Violet","Eyes
+    shape":"Happy","Accessory":"Crook","Background":"Violet"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreieypolxbzvjn3bjjsckrowwyrc53sfnf4llsoumswqnqk7q66kg7q
+- tokenId: c8e196cc8770613440c062c6e58d81582bfdd5c8a401de10d8f31b06b8062e24
+  name: 'Ergo Mummy #125'
+  description: >-
+    {"721":{"125":{"Ergo Mummy":"125","traits":{"Primary
+    color":"White","Secondary color":"Emerald green","Eyes/Strips
+    color":"Red","Eyes shape":"Plus
+    sign","Accessory":"None","Background":"ErgoGames 2"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreigtlatzu7cggdu2inkcezbudmqqtsjnrlpdn7rw65hnbf4ddmmtjq
+- tokenId: 7ba5f164a145d832c11a7980697feece3623b52823d59f91c14200efe55c25ae
+  name: 'Ergo Mummy #125'
+  description: >-
+    {"721":{"125":{"Ergo Mummy":"125","traits":{"Primary
+    color":"White","Secondary color":"Emerald green","Eyes/Strips
+    color":"Red","Eyes shape":"Plus sign","Accessory":"Ancient
+    crown","Background":"Orange"}}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiddqbxlezczl3wol6migeuwsveimdsvjfp4oj7dvbdaqsfun2w5qq
